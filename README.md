@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @moralesSantos
 - 👀 I’m interested in getting better at coding, some anime and lifting weights. 
-- 🌱 I’m currently learning python and html. 
+- 🌱 I’m currently learning python and continuing with Java. 
 - 💞️ I’m looking to collaborate on basic projects so get my understanding up to date. 
-- 📫 How to reach me ...
 
 <!---
 moralesSantos/moralesSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
