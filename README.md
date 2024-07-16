@@ -14,8 +14,6 @@
 
 <hr>
 
-<h4></h4>I’m currently working with ...</h4>
-
 <h5>Software Engineer : Full Stack</h5>
 <p >
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp;
