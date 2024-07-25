@@ -7,10 +7,10 @@
   <a href="mailto:luismsantos707@gmail.com?subject=Hi%20Luis"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+<hr>
+<p> I am currently working on completing full-stack-professional course by AMIGOSCODE. Checkout my website I have completed so far which includes CI/CD, AWS, AWS Amplify, Postgres, SpringBoot, React, Unit Testing, Integration testing and much more. You can login using Test@gmail.com  password: TestPassword . Or You can add create your own account </h5>
 
-<h5> I am currently working on completing full-stack-professional course by AMIGOSCODE. Checkout my website I have completed so far which includes CI/CD, AWS, AWS Amplify, Postgres, SpringBoot, React and much more. You can login using Test@gmail.com  password: TestPassword . Or You can add create your own account </h5>
-<h5>https://www.full-stack-react.luismwebsite.com/</h5>
-
+<h5>https://www.full-stack-react.luismwebsite.com/</p>
 <hr>
 
 <h5>Software Engineer : Full Stack</h5>
