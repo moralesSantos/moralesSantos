@@ -8,9 +8,10 @@
 
 </p>
 <hr>
-<p> I am currently working on completing full-stack-professional course by AMIGOSCODE. Checkout my website I have completed so far which includes CI/CD, AWS, AWS Amplify, Postgres, SpringBoot, React, Unit Testing, Integration testing and much more. You can login using Test@gmail.com  password: TestPassword . Or You can add create your own account </h5>
+<p> Just completed my website from Amigos code Full Stack Course. It CI/CD, AWS, AWS Amplify, Postgres, SpringBoot, React, Unit Testing, Integration testing and much more. </p>
+<p>Currently only hosting the frontend since I ran out of free aws. Sorry </p>
 
-<h5>https://www.full-stack-react.luismwebsite.com/</p>
+<h5 style="font-weight: lighter">https://www.full-stack-react.luismwebsite.com/</p>
 <hr>
 
 <h5>Software Engineer : Full Stack</h5>
