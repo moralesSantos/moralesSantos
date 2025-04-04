@@ -8,6 +8,8 @@
 
 </p>
 <hr>
+<p>Currently working on soccer-pickup application check my most recent repos 
+  Hopefully I can have it up and running soon </p>
 <p> Just completed my website from Amigos code Full Stack Course. It CI/CD, AWS, AWS Amplify, Postgres, SpringBoot, React, Unit Testing, Integration testing and much more. </p>
 <p>Currently only hosting the frontend since I ran out of free aws. Sorry </p>
 
